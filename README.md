@@ -1,4 +1,4 @@
-# Fiipractic DevOps
+# FiiPractic DevOps
 ## Sesiunea 2
 
 Aveti mai jos o parte dintre exercitiile de la laboratorul de astazi.
